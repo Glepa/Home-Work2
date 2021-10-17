@@ -5,6 +5,6 @@ temp = b
 b = a
 a = temp
 print(a, b)
-# а можно так (честно, подсмотрел как реализуют swap на python)
+# а можно так
 a, b = b, a
 print(a, b)

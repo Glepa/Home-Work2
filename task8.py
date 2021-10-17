@@ -6,5 +6,5 @@ b = a
 a = temp
 print(a, b)
 # а можно так (честно, подсмотрел как реализуют swap на python)
-a, b = b ,a
+a, b = b, a
 print(a, b)
